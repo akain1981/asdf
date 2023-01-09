@@ -1,0 +1,3 @@
+date
+echo hello
+whoami

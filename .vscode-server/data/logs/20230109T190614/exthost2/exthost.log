@@ -1,0 +1,18 @@
+2023-01-09 19:07:06.056 [info] Extension host with pid 254 started
+2023-01-09 19:07:06.085 [info] Lock '/home/akain/.vscode-server/data/User/workspaceStorage/556ff11563001ed7d8ecd262bb348265/vscode.lock': Lock acquired.
+2023-01-09 19:07:06.174 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2023-01-09 19:07:06.227 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-01-09 19:07:06.244 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-01-09 19:07:06.244 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+2023-01-09 19:07:06.245 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-01-09 19:07:06.245 [info] Eager extensions activated
+2023-01-09 19:07:16.544 [info] ExtensionService#_doActivateExtension vscode.git, startup: false, activationEvent: 'api', root cause: vscode.github
+2023-01-09 20:09:58.760 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:09:59.484 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:14:51.379 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3066
+2023-01-09 20:14:56.785 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:15:02.113 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:15:27.805 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:15:33.245 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:15:42.856 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
+2023-01-09 20:15:56.334 [warning] [Decorations] CAPPING events from decorations provider vscode.git 3065
